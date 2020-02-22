@@ -1,0 +1,16 @@
+﻿Create an Animal class
+Properties
+* Name
+* Legs (number)
+* TailLength (number)
+Create method
+* Walk, how far as a #
+
+Create a Dog class that inherits from Animal
+and add the following
+* CollarColor
+
+Add a method
+* Speak (outputs 'Ruff')
+
+Create new Dog, set its all properties, have it walk/speak

@@ -1,0 +1,11 @@
+﻿Take 2 inputs
+Divide input 1 by input 2
+Show Result
+1, 2
+2, 0
+a, b
+
+string input1 = Console.ReadLine();
+string input2 = Console.ReadLine();
+var dividend = int.Parse(input1);
+var divisor = int.Parse(input2);
